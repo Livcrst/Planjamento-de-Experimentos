@@ -46,3 +46,6 @@ plt.show()
 #Porcentagem de variação explicada pela regressão
 Percent = valueError1**2 # A porcentagem é 74%
 # print(Percent)
+#LEtra E 
+Value = m1*(2**20)+b1
+print('value',Value) #51711282.69047619
